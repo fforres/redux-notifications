@@ -1,0 +1,11 @@
+{
+  "name": "redux-notifications",
+  "version": "0.0.1",
+  "description": "redux based notification system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Torres <felipe.torressepulveda@gmail.com> (http://fforr.es)",
+  "license": "MIT"
+}
